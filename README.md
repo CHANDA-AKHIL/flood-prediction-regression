@@ -23,7 +23,7 @@ Citation: Walter Reade and Ashley Chow. Regression with a Flood Prediction Datas
   - Standard scaling applied.
   - No categorical features.
 
-Note: Datasets not included due to size. Download from Kaggle and place in folder.
+Note: Datasets not included due to size. Download from Kaggle.
 
 ## Methodology
 1. **Data Preparation**: Load CSVs, extract features/target, scale with StandardScaler.
