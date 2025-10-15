@@ -44,5 +44,4 @@ Results: RandomForest achieved ~0.85 R²; Polynomial ~0.82. Features like Draina
 
 <image-card alt="Residual Plot" src="visualizations/residual_plot.png" ></image-card>
 
-## Installation and Setup
-1. Clone the repository:
+
