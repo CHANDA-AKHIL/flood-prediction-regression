@@ -1,7 +1,7 @@
 # ============================================
 # Flood Probability Prediction
 # Kaggle Playground Series - S4E5
-# Author: [Your Name]
+# Author: Chanda Akhil
 # Description: This script predicts flood probability using regression models on Kaggle's synthetic dataset.
 # It includes data loading, preprocessing, model training (RandomForest and Polynomial Regression),
 # evaluation with R² score, visualizations, and submission generation.
@@ -169,4 +169,5 @@ submission = pd.DataFrame({
 })
 submission.to_csv("submission.csv", index=False)
 print("\n Submission file created successfully: submission.csv")
+
 print(submission.head())
